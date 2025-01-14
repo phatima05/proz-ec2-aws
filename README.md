@@ -47,7 +47,7 @@ Entre os principais benefícios do Amazon EC2, estão:
 * O comando **sudo mount /dev/xvdbb /mnt/ebs-teste** monta um volume **xvdbb** no diretório recém-criado
 
 
-5 - Um arquivo chamado **prox.txt**, com a nota **Proz Educação** foi criado:
+5 - Um arquivo chamado **proz.txt**, com a nota **Proz Educação** foi criado:
 
 ![images](https://github.com/phatima05/proz-ec2-aws/blob/main/images/Arquivo%20criado%20no%20diret%C3%B3rio.png)
 
