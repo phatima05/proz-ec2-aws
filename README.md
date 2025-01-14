@@ -30,4 +30,5 @@ Entre os principais benefícios do Amazon EC2, estão:
 
 
 * EBS alocado à instância:
+
 ![images](https://github.com/phatima05/proz-ec2-aws/blob/main/images/EBS%20alocado.png)
