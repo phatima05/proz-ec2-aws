@@ -48,6 +48,7 @@ Entre os principais benefícios do Amazon EC2, estão:
 
 
 5 - Um arquivo chamado **Proz Educação** foi criado:
+
 ![images](https://github.com/phatima05/proz-ec2-aws/blob/main/images/Arquivo%20criado%20no%20diret%C3%B3rio.png)
 
 
