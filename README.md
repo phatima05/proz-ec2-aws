@@ -42,3 +42,8 @@ Entre os principais benefícios do Amazon EC2, estão:
 
 ![images](https://github.com/phatima05/proz-ec2-aws/blob/main/images/Volume%20montado.png)
 
+* O comando **sudo mkdir /mnt/ebs-teste** cria um diretório para montar o volume
+
+* O comando **sudo mount /dev/xvdbb /mnt/ebs-teste** monta um volume **xvdbb** no diretório recém-criado
+
+* 
