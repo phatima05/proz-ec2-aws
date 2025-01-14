@@ -18,3 +18,8 @@ Entre os principais benefícios do Amazon EC2, estão:
 ![images](https://github.com/phatima05/proz-ec2-aws/blob/main/images/Amazon%20Linux%201.png)
 
 ![images](https://github.com/phatima05/proz-ec2-aws/blob/main/images/Amazon%20Linux%202.png)
+
+
+
+2 - Acessando a instância Amazon Linux via SSH:
+![images](https://github.com/phatima05/proz-ec2-aws/blob/main/images/EC2%20SSH.png)
