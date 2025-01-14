@@ -34,3 +34,11 @@ Entre os principais benefícios do Amazon EC2, estão:
 * Volume **EBS Teste** alocado à instância **EC2 Proz** (xvdbb):
 
 ![images](https://github.com/phatima05/proz-ec2-aws/blob/main/images/EBS%20alocado.png)
+
+
+4 - Montagem de volume:
+
+![images](https://github.com/phatima05/proz-ec2-aws/blob/main/images/Montagem%20EBS.png)
+
+![images](https://github.com/phatima05/proz-ec2-aws/blob/main/images/Volume%20montado.png)
+
