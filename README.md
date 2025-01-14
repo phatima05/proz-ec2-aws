@@ -12,5 +12,5 @@ Entre os principais benefícios do Amazon EC2, estão:
 
 
 
-# Configuração
+## Configuração
 
