@@ -51,6 +51,6 @@ Entre os principais benefícios do Amazon EC2, estão:
 ![images](https://github.com/phatima05/proz-ec2-aws/blob/main/images/Arquivo%20criado%20no%20diret%C3%B3rio.png)
 
 
-6 - Com o comando **dh -h**, é possível ver algumas informações sobre o volume:
+6 - Com o comando **df -h**, é possível ver algumas informações sobre o volume:
 
 ![images](https://github.com/phatima05/proz-ec2-aws/blob/main/images/Volume%20montado.png)
