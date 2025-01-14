@@ -16,3 +16,5 @@ Entre os principais benefícios do Amazon EC2, estão:
 
 1 - Exemplo de criação de uma instância EC2:
 ![images](https://github.com/phatima05/proz-ec2-aws/blob/main/images/Amazon%20Linux%201.png)
+
+![images](https://github.com/phatima05/proz-ec2-aws/blob/main/images/Amazon%20Linux%202.png)
