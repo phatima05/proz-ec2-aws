@@ -41,9 +41,9 @@ Entre os principais benefícios do Amazon EC2, estão:
 ![images](https://github.com/phatima05/proz-ec2-aws/blob/main/images/Montagem%20EBS.png)
 
 
-* O comando **sudo mkdir /mnt/ebs-teste** cria um diretório para montar o volume
+* O comando **sudo mkdir /mnt/ebs-teste** cria um diretório para montar o volume.
 
-* O comando **sudo mount /dev/xvdbb /mnt/ebs-teste** monta um volume **xvdbb** no diretório recém-criado
+* O comando **sudo mount /dev/xvdbb /mnt/ebs-teste** monta um volume **xvdbb** no diretório recém-criado.
 
 
 5 - Um arquivo chamado **proz.txt**, com a nota **Proz Educação** foi criado, conforme pode ser visualizado na saída do comando **cat**:
