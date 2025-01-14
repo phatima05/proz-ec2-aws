@@ -28,3 +28,5 @@ Entre os principais benefícios do Amazon EC2, estão:
 3 - Criação de um volume EBS (EBS Teste):
 ![images](https://github.com/phatima05/proz-ec2-aws/blob/main/images/EBS.png)
 
+EBS alocado à instância:
+![images](https://github.com/phatima05/proz-ec2-aws/blob/main/images/EBS%20alocado.png)
